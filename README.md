@@ -1,2 +1,0 @@
-# ecommerceJ
-is an ecommerce :)
